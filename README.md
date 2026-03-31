@@ -18,24 +18,13 @@
 
 ---
 
-## 🖥️ Screenshot
+## 🖥️ Screenshots
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│ Symbol: [BTC/USDT ▼]  TF: [1h ▼]  2000 bars  ⬇ Fetch  ⚡ Train   │
-│                          50 epochs  ▶ Start Bot  ⏹ Stop  ↺ Reset   │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│   🕯 Candlestick chart  ── EMA20  ── EMA50  ── BB Upper/Lower      │
-│   ▲ Long signals (green)  ▼ Short signals (red)                    │
-│   ▬ Volume bars                                                     │
-│                                                                     │
-├──────────────┬──────────────────────────────────────────────────────┤
-│ LSTM         │ Account · Position · Stats · Trade Log               │
-│ Prediction   │                                                      │
-│  LONG  72%   │ Balance: $10,432   Win Rate: 58.3%                  │
-└──────────────┴──────────────────────────────────────────────────────┘
-```
+**SOL/USDT — 1m · 5000 bars · SHORT prediction**
+![1m chart](screenshot/image1.png)
+
+**SOL/USDT — 1h · full history · LONG prediction**
+![1h chart](screenshot/image2.png)
 
 ---
 
