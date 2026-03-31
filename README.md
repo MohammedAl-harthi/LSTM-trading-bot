@@ -45,7 +45,7 @@
 
 ```bash
 git clone https://github.com/MohammedAl-harthi/LSTM-trading-bot.git
-cd lstm-futures-bot
+cd LSTM-trading-bot
 ```
 
 ### 2. Install dependencies
