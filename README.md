@@ -44,7 +44,7 @@
 ### 1. Clone / download
 
 ```bash
-git clone https://github.com/yourname/lstm-futures-bot.git
+git clone https://github.com/MohammedAl-harthi/LSTM-trading-bot.git
 cd lstm-futures-bot
 ```
 
